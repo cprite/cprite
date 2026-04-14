@@ -24,9 +24,6 @@
 <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="250" height="250" alt="Funny GIF">
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/cpriteTest/count.svg)
-
-
 <img src="https://raw.githubusercontent.com/cprite/cpriteTest/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
