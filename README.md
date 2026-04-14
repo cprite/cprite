@@ -1,34 +1,30 @@
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="https://github.com/cprite/cprite/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <img height="50" alt="My Name is Nikolay and I like Python" src="images/personal_note.svg" />
-  <br />
-  <br />
+# Hi, I'm Nikolay 👋
 
-</div>
+📍 **Guildford, UK** | 🎓 **CS @ University of Surrey** | 🤖 **Builder of AI systems & automation tools**
 
-<div align="center">
-<!-- <a href="https://github.com/cprite/cprite/issues/1"><img src="images/guestbook.svg"></a> 
-</div> -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-FF4500?style=flat-square&logoColor=white)
 
-<!-- Guestbook -->
-<!-- /Guestbook -->
+> Interested in AI agent orchestration, backend automation, and building tools that actually do things.
 
-<!-- Footer -->
+---
 
-<div align="center">
+## Projects
 
-<!-- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/cprite/cprite/master/images/marquee.svg" /> -->
-<img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="250" height="250" alt="Funny GIF">
-<br />
+- 🛡️ **[phishing-detection-ext](https://github.com/cprite/phishing-detection-ext)** — Real-time phishing protection browser extension (Python + ML)
+- 📧 **[dropmail](https://github.com/cprite/dropmail)** — Disposable email CLI skill for OpenClaw, powered by GuerrillaMail
+- 🔍 **[save-env](https://github.com/cprite/save-env)** — Scans public GitHub repos for exposed OpenAI API keys and notifies developers
+- 📊 **[dynamic-players-insights](https://github.com/cprite/dynamic-players-insights)** — Football analytics with dynamic player performance modeling
+- 🚨 **[Burglar-Alarm](https://github.com/cprite/Burglar-Alarm)** — Motion-triggered alarm with Telegram notifications on Raspberry Pi
+- 🎮 **[Reaction-Game](https://github.com/cprite/Reaction-Game)** — Reaction time game on Raspberry Pi Pico
 
-<img src="https://raw.githubusercontent.com/cprite/cpriteTest/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/cprite/cpriteTest/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/cprite/cpriteTest/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+---
 
-</div>
+## Currently
+
+- 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
+- 🧠 Exploring multi-agent orchestration and autonomous systems
+- 🛠️ Creating open-source tools and skills for the ClawHub community
