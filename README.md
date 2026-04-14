@@ -18,8 +18,6 @@
 - 📧 **[dropmail](https://github.com/cprite/dropmail)** — Disposable email CLI skill for OpenClaw, powered by GuerrillaMail
 - 🔍 **[save-env](https://github.com/cprite/save-env)** — Scans public GitHub repos for exposed OpenAI API keys and notifies developers
 - 📊 **[dynamic-players-insights](https://github.com/cprite/dynamic-players-insights)** — Football analytics with dynamic player performance modeling
-- 🚨 **[Burglar-Alarm](https://github.com/cprite/Burglar-Alarm)** — Motion-triggered alarm with Telegram notifications on Raspberry Pi
-- 🎮 **[Reaction-Game](https://github.com/cprite/Reaction-Game)** — Reaction time game on Raspberry Pi Pico
 
 ---
 
