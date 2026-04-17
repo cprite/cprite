@@ -16,9 +16,9 @@
 
 ## Projects
 
-- 🛡️ **[phishing-detection-ext](https://github.com/cprite/phishing-detection-ext)** — Real-time phishing protection browser extension (Python + ML)
 - 📧 **[dropmail](https://github.com/cprite/dropmail)** — Disposable email CLI [skill](https://clawhub.ai/cprite/dropmail) for OpenClaw, powered by GuerrillaMail
 - 🔍 **[save-env](https://github.com/cprite/save-env)** — Scans public GitHub repos for exposed OpenAI API keys and notifies developers
+- 🛡️ **[phishing-detection-ext](https://github.com/cprite/phishing-detection-ext)** — Real-time phishing protection browser extension (Python + ML)
 - 📊 **[dynamic-players-insights](https://github.com/cprite/dynamic-players-insights)** — Football analytics with dynamic player performance modeling
 
 ---
