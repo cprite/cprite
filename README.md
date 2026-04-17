@@ -10,7 +10,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-FF4500?style=flat-square&logoColor=white)
 
-> Interested in AI agent orchestration, backend (vibe)development, and building tools that actually do things.
+> Interested in AI agent orchestration, backend development, vibecoding, and building tools that actually do things.
 
 ---
 
