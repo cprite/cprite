@@ -16,7 +16,7 @@
 
 ## Projects
 
-- 📸 **[say-no-to-reels](https://github.com/cprite/say-no-to-reels)** - Instagram the way it should be — no Reels, no Suggested Posts, just your feed.
+- 📸 **[say-no-to-reels](https://github.com/cprite/say-no-to-reels)** - Instagram the way it should be — no Reels, no Suggested Posts, just your feed and DMs.
 - 📧 **[dropmail](https://github.com/cprite/dropmail)** — Disposable email CLI [skill](https://clawhub.ai/cprite/dropmail) for OpenClaw, powered by GuerrillaMail
 - 🔍 **[save-env](https://github.com/cprite/save-env)** — Scans public GitHub repos for exposed OpenAI API keys and notifies developers
 - 🛡️ **[phishing-detection-ext](https://github.com/cprite/phishing-detection-ext)** — Real-time phishing protection browser extension (Python + ML)
