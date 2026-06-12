@@ -27,5 +27,3 @@
 ## Currently
 
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
-- 🧠 Exploring multi-agent orchestration and autonomous systems
-- 🛠️ Creating open-source tools and skills for the ClawHub community
