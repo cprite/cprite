@@ -16,6 +16,7 @@
 
 ## Projects
 
+- 🌐 **[vera](https://github.com/N-Combinator/vera)** — AI-powered web accessibility auditor & auto-remediator (WCAG 2.2)
 - 📚 **[inkshelf](https://github.com/N-Combinator/inkshelf)** — Native PocketBook e-reader app: browse OPDS catalogs and drop books over WiFi, no cables
 - 🚆 **[inkstation](https://github.com/N-Combinator/inkstation)** — Native PocketBook e-reader app: live UK train departure & arrival boards over WiFi, via the Realtime Trains API
 - 📸 **[say-no-to-reels](https://github.com/cprite/say-no-to-reels)** — Instagram the way it should be — no Reels, no Suggested Posts, just your feed and DMs.
@@ -31,3 +32,4 @@
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
   - Automated Telegram channels — [AI is Talking](https://t.me/ai_is_talking) & [Invest News](https://t.me/investnewsssss)
   - Managing teams of developer agents inside the [N-Combinator](https://github.com/N-Combinator) org
+- 🔬 Actively researching digital accessibility and most practical ways to advance it through open-source software
