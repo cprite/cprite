@@ -29,3 +29,5 @@
 ## Currently
 
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
+  - 📡 Automated Telegram channels — [AI is Talking](https://t.me/ai_is_talking) & [Invest News](https://t.me/investnewsssss)
+  - 👨‍💻 Teams of developer agents inside the [N-Combinator](https://github.com/N-Combinator) org
