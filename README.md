@@ -1,6 +1,6 @@
 # Hi, I'm Nikolay 👋
 
-📍 **Guildford, UK** | 🎓 **CS @ University of Surrey** | 🤖 **Builder of AI systems & automation tools**
+📍 **Guildford, England** | 🎓 **CS @ University of Surrey** | 🤖 **Builder of AI systems & automation tools**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
