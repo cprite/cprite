@@ -20,7 +20,7 @@
 - 📚 **[inkshelf](https://github.com/N-Combinator/inkshelf)** — Native PocketBook e-reader app: browse OPDS catalogs and drop books over WiFi, no cables
 - 🚆 **[inkstation](https://github.com/N-Combinator/inkstation)** — Native PocketBook e-reader app: live UK train departure & arrival boards over WiFi, via the Realtime Trains API
 - 📹 **[ytpull-bot](https://github.com/N-Combinator/ytpull-bot)** — Telegram bot that downloads YouTube videos via yt-dlp, with an inline quality-selection menu
-- 👹 **[terror-zone-telebot](https://github.com/cprite/terror-zone-telebot)** — Telegram bot for Diablo II: Resurrected terror zone rotations: per-zone alerts, six UI languages, no scraping
+- 👹 **[terror-zone-telebot](https://github.com/cprite/terror-zone-telebot)** — Telegram bot for Diablo II: Resurrected terror zone rotations: per-zone alerts, six UI languages, free API
 - 📸 **[say-no-to-reels](https://github.com/cprite/say-no-to-reels)** — Instagram the way it should be — no Reels, no Suggested Posts, just your feed and DMs.
 - 📧 **[dropmail](https://github.com/cprite/dropmail)** — Disposable email CLI [skill](https://clawhub.ai/cprite/dropmail) for OpenClaw, powered by GuerrillaMail
 - 🔍 **[save-env](https://github.com/cprite/save-env)** — Scans public GitHub repos for exposed OpenAI API keys and notifies developers
