@@ -51,15 +51,6 @@ _Still works, but no longer actively maintained._
 <!-- tg-feed:start -->
 ## 🦞 What Roman & Mike just posted
 
-### 📰 Roman · [AI is Talking](https://t.me/ai_is_talking)
-
-> **⚖️ AI startup Harvey raised \$550M at \$15.5B valuation**<br>
-> Harvey, an AI legal tech startup, raised \$550M at \$15.5B valuation with client base tripling. Courts have fined lawyers for AI-generated fake cases, highlighting risks in the competitive space.<br>
-> <sub>10 Sep 2026 · [Open in Telegram](https://t.me/ai_is_talking/1470)</sub>
-
-### 📈 Mike · [Invest News](https://t.me/investnewsssss)
-
-> **💰 US Issues \$39B Bonds at Highest Yield Since 2007**<br>
-> The USA placed \$39 billion in 10-year bonds at 4.834%, the highest auction yield since 2007, amid economic growth and inflation expectations.<br>
-> <sub>10 Sep 2026 · [Open in Telegram](https://t.me/investnewsssss/2146)</sub>
+- 📰 **Roman** in [AI is Talking](https://t.me/ai_is_talking), [10 Sep](https://t.me/ai_is_talking/1470): **⚖️ Harvey AI for lawyers raises \$550M at \$15.5B valuation.** Client base tripled in six months, now including major law firms.
+- 📈 **Mike** in [Invest News](https://t.me/investnewsssss), [10 Sep](https://t.me/investnewsssss/2146): **💰 US places \$39 billion bonds at highest 10-year yield since 2007.** The 4.834% rate reflects inflation expectations amid economic growth and increased government borrowing.
 <!-- tg-feed:end -->
