@@ -22,7 +22,7 @@
 
 ### ⭐ My top classics + freshly baked
 
-- 🌐 **[vera](https://github.com/N-Combinator/vera)** — AI-powered web accessibility auditor and auto-remediator (WCAG 2.2)
+- 🌐 **[vera](https://github.com/N-Combinator/vera)** — Web accessibility auditor and auto-remediator (WCAG 2.2)
 - 📚 **[inkshelf](https://github.com/N-Combinator/inkshelf)** — Native PocketBook e-reader app: browse OPDS catalogues and send books over Wi-Fi, no cables needed
 - 🚆 **[inkstation](https://github.com/N-Combinator/inkstation)** — Native PocketBook e-reader app: live UK train departure and arrival boards over Wi-Fi, powered by the Realtime Trains API
 - 📹 **[ytpull-bot](https://github.com/N-Combinator/ytpull-bot)** — Telegram bot that downloads YouTube videos via yt-dlp, with an inline quality picker
