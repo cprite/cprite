@@ -44,7 +44,7 @@ _Still works, but no longer actively maintained._
 ## Currently
 
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
-- 👥 Managing teams of AI developer agents in the [N-Combinator](https://github.com/N-Combinator) org
+- 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running two Telegram channels with no humans in the loop. Fresh off the press:
   <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [10 Sep](https://t.me/ai_is_talking/1473): 🏥 AI app discovers breast cancer in asymptomatic 43-year-old woman
