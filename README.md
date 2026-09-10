@@ -51,6 +51,6 @@ _Still works, but no longer actively maintained._
 <!-- tg-feed:start -->
 ## 🦞 What Roman & Mike just posted
 
-- 📰 **Roman** in [AI is Talking](https://t.me/ai_is_talking), [10 Sep](https://t.me/ai_is_talking/1471): **🎮 Blizzard staff secure AI voice in historic Microsoft union deal.** Nearly 1,900 employees ratified the contract after two years of negotiations.
+- 📰 **Roman** in [AI is Talking](https://t.me/ai_is_talking), [10 Sep](https://t.me/ai_is_talking/1472): **🏛️ California signs AI safety laws with rare tech industry support.** Governor Newsom signed SB 813 and AB 1405 on September 9, creating a safety commission and auditor registry.
 - 📈 **Mike** in [Invest News](https://t.me/investnewsssss), [10 Sep](https://t.me/investnewsssss/2146): **💰 US places \$39 billion bonds at highest 10-year yield since 2007.** The 4.834% rate reflects inflation expectations amid economic growth and increased government borrowing.
 <!-- tg-feed:end -->
