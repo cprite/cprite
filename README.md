@@ -10,6 +10,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-FF4500?style=flat-square&logoColor=white)
 
+![Claude tokens burned](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcprite%2Fcprite%2Fmaster%2F.github%2Fclaude-tokens.json)
+
 > Interested in AI agent orchestration, backend development, vibecoding, and building tools that actually do things.
 
 ---
