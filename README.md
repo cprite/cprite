@@ -18,23 +18,30 @@
 
 ## Projects
 
-- 🌐 **[vera](https://github.com/N-Combinator/vera)** — AI-powered web accessibility auditor & auto-remediator (WCAG 2.2)
-- 📚 **[inkshelf](https://github.com/N-Combinator/inkshelf)** — Native PocketBook e-reader app: browse OPDS catalogs and drop books over WiFi, no cables
-- 🚆 **[inkstation](https://github.com/N-Combinator/inkstation)** — Native PocketBook e-reader app: live UK train departure & arrival boards over WiFi, via the Realtime Trains API
-- 📹 **[ytpull-bot](https://github.com/N-Combinator/ytpull-bot)** — Telegram bot that downloads YouTube videos via yt-dlp, with an inline quality-selection menu
-- 🤝 **[ton-guarantor-bot](https://github.com/cprite/ton-guarantor-bot)** — Self-hosted escrow bot for Telegram trades on TON: verifies both deposits on-chain and swaps them in one transaction
-- 👹 **[terror-zone-telebot](https://github.com/cprite/terror-zone-telebot)** — Telegram bot for Diablo II: Resurrected terror zone rotations: per-zone alerts, six UI languages, free API
-- 📸 **[say-no-to-reels](https://github.com/cprite/say-no-to-reels)** — Instagram the way it should be — no Reels, no Suggested Posts, just your feed and DMs.
-- 📧 **[dropmail](https://github.com/cprite/dropmail)** — Disposable email CLI [skill](https://clawhub.ai/cprite/dropmail) for OpenClaw, powered by GuerrillaMail
-- 🔍 **[save-env](https://github.com/cprite/save-env)** — Scans public GitHub repos for exposed OpenAI API keys and notifies developers
-- 🛡️ **[phishing-detection-ext](https://github.com/cprite/phishing-detection-ext)** — Real-time phishing protection browser extension (Python + ML)
-- 📊 **[dynamic-players-insights](https://github.com/cprite/dynamic-players-insights)** — Football analytics with dynamic player performance modeling
+### ⭐ My top classics + freshly baked
+
+- 🌐 **[vera](https://github.com/N-Combinator/vera)** — AI-powered web accessibility auditor and auto-remediator (WCAG 2.2)
+- 📚 **[inkshelf](https://github.com/N-Combinator/inkshelf)** — Native PocketBook e-reader app: browse OPDS catalogues and send books over Wi-Fi, no cables needed
+- 🚆 **[inkstation](https://github.com/N-Combinator/inkstation)** — Native PocketBook e-reader app: live UK train departure and arrival boards over Wi-Fi, powered by the Realtime Trains API
+- 📹 **[ytpull-bot](https://github.com/N-Combinator/ytpull-bot)** — Telegram bot that downloads YouTube videos via yt-dlp, with an inline quality picker
+- 📧 **[dropmail](https://github.com/cprite/dropmail)** — Disposable email CLI and [OpenClaw skill](https://clawhub.ai/cprite/dropmail), powered by GuerrillaMail
+- 🛡️ **[phishing-detection-ext](https://github.com/cprite/phishing-detection-ext)** — Browser extension that protects you from phishing in real time (Python + ML)
+
+### 🗄️ Legacy
+
+_Still works, but no longer actively maintained._
+
+- 🤝 **[ton-guarantor-bot](https://github.com/cprite/ton-guarantor-bot)** — Self-hosted escrow bot for Telegram trades on TON: verifies both parties' deposits on-chain and swaps them in a single transaction
+- 👹 **[terror-zone-telebot](https://github.com/cprite/terror-zone-telebot)** — Telegram bot that tracks Diablo II: Resurrected Terror Zone rotations — per-zone alerts, six interface languages, no API key needed
+- 📸 **[say-no-to-reels](https://github.com/cprite/say-no-to-reels)** — Instagram the way it should be: no Reels, no suggested posts, just your feed and DMs
+- 🔍 **[save-env](https://github.com/cprite/save-env)** — Scans public GitHub repos for exposed OpenAI API keys and notifies their owners
+- 📊 **[dynamic-players-insights](https://github.com/cprite/dynamic-players-insights)** — Football analytics with dynamic modelling of player performance
 
 ---
 
 ## Currently
 
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
-  - Automated Telegram channels — [AI is Talking](https://t.me/ai_is_talking) & [Invest News](https://t.me/investnewsssss)
-  - Managing teams of developer agents inside the [N-Combinator](https://github.com/N-Combinator) org
-- 🔬 Actively researching digital accessibility and most practical ways to advance it through open-source software
+  - Automated Telegram channels: [AI is Talking](https://t.me/ai_is_talking) and [Invest News](https://t.me/investnewsssss)
+  - Managing teams of AI developer agents in the [N-Combinator](https://github.com/N-Combinator) org
+- 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
