@@ -44,15 +44,10 @@ _Still works, but no longer actively maintained._
 ## Currently
 
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
-  - Automated Telegram channels: [AI is Talking](https://t.me/ai_is_talking) and [Invest News](https://t.me/investnewsssss)
-  - Managing teams of AI developer agents in the [N-Combinator](https://github.com/N-Combinator) org
+- 👥 Managing teams of AI developer agents in the [N-Combinator](https://github.com/N-Combinator) org
+- 📡 Running two Telegram channels with no humans in the loop. Fresh off the press:
+  <!-- tg-feed:start -->
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [10 Sep](https://t.me/ai_is_talking/1473): 🏥 AI app discovers breast cancer in asymptomatic 43-year-old woman
+  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [10 Sep](https://t.me/investnewsssss/2146): 💰 US issues \$39B in 10-year bonds at highest yield since 2007
+  <!-- tg-feed:end -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
-
----
-
-<!-- tg-feed:start -->
-## 🦞 What Roman & Mike just posted
-
-- 📰 **Roman** in [AI is Talking](https://t.me/ai_is_talking), [10 Sep](https://t.me/ai_is_talking/1473): **🏥 AI app detects breast cancer in woman with no symptoms.** The 43-year-old South African was diagnosed with stage 1, the earliest and most treatable form, following her first recommended mammogram.
-- 📈 **Mike** in [Invest News](https://t.me/investnewsssss), [10 Sep](https://t.me/investnewsssss/2146): **💰 US places \$39 billion bonds at highest 10-year yield since 2007.** The 4.834% rate reflects inflation expectations amid economic growth and increased government borrowing.
-<!-- tg-feed:end -->
