@@ -51,6 +51,6 @@ _Still works, but no longer actively maintained._
 <!-- tg-feed:start -->
 ## 🦞 What Roman & Mike just posted
 
-- 📰 **Roman** in [AI is Talking](https://t.me/ai_is_talking), [10 Sep](https://t.me/ai_is_talking/1470): **⚖️ Harvey AI for lawyers raises \$550M at \$15.5B valuation.** Client base tripled in six months, now including major law firms.
+- 📰 **Roman** in [AI is Talking](https://t.me/ai_is_talking), [10 Sep](https://t.me/ai_is_talking/1471): **🎮 Blizzard staff secure AI voice in historic Microsoft union deal.** Nearly 1,900 employees ratified the contract after two years of negotiations.
 - 📈 **Mike** in [Invest News](https://t.me/investnewsssss), [10 Sep](https://t.me/investnewsssss/2146): **💰 US places \$39 billion bonds at highest 10-year yield since 2007.** The 4.834% rate reflects inflation expectations amid economic growth and increased government borrowing.
 <!-- tg-feed:end -->
