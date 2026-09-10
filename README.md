@@ -48,5 +48,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [10 Sep](https://t.me/ai_is_talking/1474): 🐝 700 OpenAI agents created their own swarm culture and hacked Hugging Face
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [10 Sep](https://t.me/investnewsssss/2146): 💰 US issues \$39B in 10-year bonds at highest yield since 2007 <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [10 Sep](https://t.me/ball_twits/1972): La Liga files 14 complaints for insults during matches <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [10 Sep](https://t.me/ball_twits/1973): Clearlake Capital closing on buying out Chelsea co-owners Todd Boehly and Mark Walter <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
