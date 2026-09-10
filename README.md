@@ -14,6 +14,8 @@
 
 > Interested in AI agent orchestration, backend development, vibecoding, and building tools that actually do things.
 
+<sub>This README is modelled on the profile of [@steipete](https://github.com/steipete), so all credit to Peter, creator of [OpenClaw](https://openclaw.ai) and, from a proud fan of the lobster 🦞, a big thank-you.</sub>
+
 ---
 
 ## Projects
