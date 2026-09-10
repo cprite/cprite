@@ -1,0 +1,9 @@
+{
+ "schemaVersion": 1,
+ "label": "Claude tokens burned",
+ "message": "5.69B",
+ "color": "D97757",
+ "namedLogo": "anthropic",
+ "logoColor": "white",
+ "style": "flat-square"
+}
