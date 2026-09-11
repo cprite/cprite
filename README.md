@@ -48,5 +48,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [11 Sep](https://t.me/ai_is_talking/1482): 🎭 AI Eminem deepfake deceives YouTube search with over 120k views
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [11 Sep](https://t.me/investnewsssss/2152): 💰 US 30-year mortgage rates exceed 7% for first time in a year <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [11 Sep](https://t.me/ball_twits/2012): Premier League news: Iraola values Wirtz’s work ethic; Moyes backs ‘senior citizen’ Grealish <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [12 Sep](https://t.me/ball_twits/2013): Maffeo asks fans for support for Valencia during crisis <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
