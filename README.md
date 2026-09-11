@@ -48,5 +48,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [11 Sep](https://t.me/ai_is_talking/1477): 📸 Apple creates digital negative for iPhone 18 to verify photos are real
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [11 Sep](https://t.me/investnewsssss/2149): ❗️ US August CPI expected at 3.3%, core CPI lowest since 2021 <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [11 Sep](https://t.me/ball_twits/1982): Betis exceeds La Liga's limits thanks to Champions League win <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [11 Sep](https://t.me/ball_twits/1986): Iñaki Williams ends his Ghana career to focus on Athletic Club <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
