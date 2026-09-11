@@ -46,7 +46,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [11 Sep](https://t.me/ai_is_talking/1475): 🌙 Familiar content helps calm brain for 30-90 minutes after night coding
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [11 Sep](https://t.me/ai_is_talking/1476): 🌅 Use ChatGPT and Claude scheduled tasks for daily morning lessons
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [11 Sep](https://t.me/investnewsssss/2149): ❗️ US August CPI expected at 3.3%, core CPI lowest since 2021 <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [11 Sep](https://t.me/ball_twits/1978): Raphinha leads La Liga scoring race ahead of Mbappé <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
