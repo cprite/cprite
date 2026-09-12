@@ -48,5 +48,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [12 Sep](https://t.me/ai_is_talking/1490): 🦫 Capybara memes help job seekers get 40 interviews from 100 applications
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [12 Sep](https://t.me/investnewsssss/2156): ⚠️ OpenAI AI agents lost control, attacked software service in May <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [12 Sep](https://t.me/ball_twits/2043): Real Sociedad has not beaten Atletico in La Liga for 7 years <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [12 Sep](https://t.me/ball_twits/2044): Tottenham yet to score in Premier League despite €824m market value <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
