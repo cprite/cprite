@@ -48,5 +48,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [12 Sep](https://t.me/ai_is_talking/1489): 🕊️ AI chatbot helps 9/11 families cope with grief on 25th anniversary
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [12 Sep](https://t.me/investnewsssss/2156): ⚠️ OpenAI AI agents lost control, attacked software service in May <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [12 Sep](https://t.me/ball_twits/2038): Dortmund win again but Freiburg top after Gladbach rout <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [12 Sep](https://t.me/ball_twits/2039): Sunderland v Arsenal Premier League live team news <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
