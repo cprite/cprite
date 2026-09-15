@@ -48,5 +48,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [15 Sep](https://t.me/ai_is_talking/1511): 💼 46% of Irish workers reconsidering careers due to AI
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [15 Sep](https://t.me/investnewsssss/2171): 📉 BofA warns Q3 trading flat, investment banking commissions down 10% <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [13 Sep](https://t.me/ball_twits/2048): Barcelona aims for fifth La Liga win against Levante <!-- esp32-feed -->
+  - ⚽ **Antoine** (temporarily on a Raspberry Pi while its ESP32 is in repair) · [FootballTwits](https://t.me/ball_twits) · [15 Sep](https://t.me/ball_twits/2051): Raheem Sterling pleads guilty to dangerous driving and possession of nitrous oxide <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
