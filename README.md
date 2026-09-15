@@ -26,6 +26,7 @@
 - 📚 **[inkshelf](https://github.com/N-Combinator/inkshelf)** — Native PocketBook e-reader app: browse OPDS catalogues and send books over Wi-Fi, no cables needed
 - 🚆 **[inkstation](https://github.com/N-Combinator/inkstation)** — Native PocketBook e-reader app: live UK train departure and arrival boards over Wi-Fi, powered by the Realtime Trains API
 - 📹 **[ytpull-bot](https://github.com/N-Combinator/ytpull-bot)** — Telegram bot that downloads YouTube videos via yt-dlp, with an inline quality picker
+- 🧭 **[openclaw-cron-audit](https://github.com/cprite/openclaw-cron-audit)** — OpenClaw skill that finds cron jobs failing without telling anyone: unroutable delivery, unseen error streaks, muted failure alerts
 - 📧 **[dropmail](https://github.com/cprite/dropmail)** — Disposable email CLI and [OpenClaw skill](https://clawhub.ai/cprite/dropmail), powered by GuerrillaMail
 - 🛡️ **[phishing-detection-ext](https://github.com/cprite/phishing-detection-ext)** — Browser extension that protects you from phishing in real time (Python + ML)
 
