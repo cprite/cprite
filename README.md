@@ -20,7 +20,7 @@
 
 ## Projects
 
-### ⭐ My top classics + freshly baked
+### Freshly baked / patched 
 
 - 🌐 **[vera](https://github.com/N-Combinator/vera)** — Web accessibility auditor and auto-remediator (WCAG 2.2)
 - 📚 **[inkshelf](https://github.com/N-Combinator/inkshelf)** — Native PocketBook e-reader app: browse OPDS catalogues and send books over Wi-Fi, no cables needed
@@ -30,7 +30,7 @@
 - 📧 **[dropmail](https://github.com/cprite/dropmail)** — Disposable email CLI and [OpenClaw skill](https://clawhub.ai/cprite/dropmail), powered by GuerrillaMail
 - 🛡️ **[phishing-detection-ext](https://github.com/cprite/phishing-detection-ext)** — Browser extension that protects you from phishing in real time (Python + ML)
 
-### 🗄️ Legacy
+### Legacy
 
 _Still works, but no longer actively maintained._
 
