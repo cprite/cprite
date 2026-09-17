@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [17 Sep](https://t.me/ai_is_talking/1523): 🍷 Nightcap myth: alcohol damages REM sleep vital for recovery
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [17 Sep](https://t.me/ai_is_talking/1524): 🌅 ChatGPT designs full morning routines plus realistic 10-minute bad day plans
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [17 Sep](https://t.me/investnewsssss/2181): ❗️ Fed raises rates to 4% for first time in 3 years <!-- tg-feed:end -->
   - ⚽ **Antoine** (temporarily on a Raspberry Pi while its ESP32 is in repair) · [FootballTwits](https://t.me/ball_twits) · [17 Sep](https://t.me/ball_twits/2102): Boehly and Walter sell Chelsea stakes to Clearlake <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
