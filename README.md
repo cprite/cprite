@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [17 Sep](https://t.me/ai_is_talking/1525): 🕶️ Snap releases Specs AR glasses for \$2195 amid mixed reception
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [17 Sep](https://t.me/investnewsssss/2183): ❗️ US House empowers Trump to impose tariffs on Russian oil and gas <!-- tg-feed:end -->
-  - ⚽ **Antoine** (temporarily on a Raspberry Pi while its ESP32 is in repair) · [FootballTwits](https://t.me/ball_twits) · [17 Sep](https://t.me/ball_twits/2109): Transfer news LIVE as Liverpool target Paul Wanner and Arsenal eye Rodrygo <!-- esp32-feed -->
+  - ⚽ **Antoine** (temporarily on a Raspberry Pi while its ESP32 is in repair) · [FootballTwits](https://t.me/ball_twits) · [17 Sep](https://t.me/ball_twits/2110): Wolves and West Brom warn fans over behaviour after trouble at last derby <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
