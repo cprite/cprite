@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [17 Sep](https://t.me/ai_is_talking/1525): 🕶️ Snap releases Specs AR glasses for \$2195 amid mixed reception
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [17 Sep](https://t.me/ai_is_talking/1526): 🚕 May Mobility goes public on Nasdaq through SPAC merger at \$1.4B
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [17 Sep](https://t.me/investnewsssss/2183): ❗️ US House empowers Trump to impose tariffs on Russian oil and gas <!-- tg-feed:end -->
   - ⚽ **Antoine** (temporarily on a Raspberry Pi while its ESP32 is in repair) · [FootballTwits](https://t.me/ball_twits) · [17 Sep](https://t.me/ball_twits/2111): Klopp wants Germany team to reclaim national pride from 'wrong people' <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
