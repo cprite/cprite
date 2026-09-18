@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [18 Sep](https://t.me/ai_is_talking/1531): 📱 Samsung One UI 9 adds Galaxy AI for auto video and briefs
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [18 Sep](https://t.me/ai_is_talking/1532): 📉 IT hiring down 12% as AI forces graduates to McDonald's
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [18 Sep](https://t.me/investnewsssss/2189): ✴️ Warren Buffett steps down as Berkshire Hathaway chairman <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [18 Sep](https://t.me/ball_twits/2143): Quique: “I don't see any opponent worse than us” <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
