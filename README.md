@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [18 Sep](https://t.me/ai_is_talking/1533): 🎭 AI actress Tillie Norwood switched to Cantonese on air, called it glitch
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [19 Sep](https://t.me/ai_is_talking/1534): 🌙 Bedroom light over 3 lux linked to heart wall changes
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [18 Sep](https://t.me/investnewsssss/2189): ✴️ Warren Buffett steps down as Berkshire Hathaway chairman <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [19 Sep](https://t.me/ball_twits/2166): Harry Kane fastest to 100 Bundesliga goals in 98 games <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
