@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [18 Sep](https://t.me/ai_is_talking/1533): 🎭 AI actress Tillie Norwood switched to Cantonese on air, called it glitch
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [18 Sep](https://t.me/investnewsssss/2189): ✴️ Warren Buffett steps down as Berkshire Hathaway chairman <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [18 Sep](https://t.me/ball_twits/2161): Elche wins 3-1 against Espanyol despite early red card <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [19 Sep](https://t.me/ball_twits/2166): Harry Kane fastest to 100 Bundesliga goals in 98 games <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
