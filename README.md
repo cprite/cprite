@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [19 Sep](https://t.me/ai_is_talking/1538): ⚖️ 4 users sue OpenAI and Anthropic for AI development conspiracy
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [19 Sep](https://t.me/investnewsssss/2192): ✴️ Paramount negotiates with California on Warner Bros. Discovery antitrust settlement <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [19 Sep](https://t.me/ball_twits/2193): Brighton demolish champions Arsenal 3-0 to mark anniversary in style <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [19 Sep](https://t.me/ball_twits/2196): Harry Kane 100 Bundesliga goal: Bayern star matches Ronaldo &amp; Zlatan <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
