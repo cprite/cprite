@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [19 Sep](https://t.me/ai_is_talking/1534): 🌙 Bedroom light over 3 lux linked to heart wall changes
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [19 Sep](https://t.me/investnewsssss/2190): 📉 Dow Jones down 122 points, third week of decline in a row <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [19 Sep](https://t.me/ball_twits/2172): Carrick and Wilcox blamed for Manchester United's cup exit and recruitment issues <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [19 Sep](https://t.me/ball_twits/2174): Javier Aguirre to become new Valencia coach, details and signature remain <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
