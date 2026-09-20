@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [20 Sep](https://t.me/ai_is_talking/1542): 📓 Track friction points for a week to ask AI smarter questions
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [19 Sep](https://t.me/investnewsssss/2192): ✴️ Paramount negotiates with California on Warner Bros. Discovery antitrust settlement <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [20 Sep](https://t.me/ball_twits/2214): Barcelona received 300 million euros from 'levers', but only earned 127 million <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [20 Sep](https://t.me/ball_twits/2215): Braulio Vázquez's first spell at Valencia, 1,897 days: from Fernando to Llorente <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
