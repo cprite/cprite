@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [21 Sep](https://t.me/ai_is_talking/1549): 🌙 Strange trick silences racing thoughts after night AI coding
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [20 Sep](https://t.me/investnewsssss/2194): ⚠️ Scammers attempted \$10M Polymarket fraud with stolen debit cards <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [21 Sep](https://t.me/ball_twits/2236): Valencia interim coach Oscar Sanchez laments 2-3 loss to Real Sociedad <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [21 Sep](https://t.me/ball_twits/2237): Aarón Mayol scores first goal for Valencia in Real Sociedad match <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
