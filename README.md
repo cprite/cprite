@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [21 Sep](https://t.me/ai_is_talking/1551): 🧪 Anthropic opens biolab where Claude discovers disease cures in their 5-year timeline
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [21 Sep](https://t.me/investnewsssss/2196): ✴️ California AG and Paramount settle lawsuit with \$1.5 billion production investment <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [21 Sep](https://t.me/ball_twits/2242): Vivian returns to Athletic training after 10 weeks of treatment <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [21 Sep](https://t.me/ball_twits/2244): Sevilla is fifth in La Liga after 7 rounds with 13 points <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
