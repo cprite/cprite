@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [24 Sep](https://t.me/ai_is_talking/1571): 🔬 AI detects bladder cancer 5 years before diagnosis
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [24 Sep](https://t.me/investnewsssss/2217): ❗️ Trump and Xi focus on stability amid fragile ceasefire expiring November 10 <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [24 Sep](https://t.me/ball_twits/2300): Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [24 Sep](https://t.me/ball_twits/2302): Javier Aguirre starts work at Valencia, changes training schedule <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
