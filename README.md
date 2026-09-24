@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [24 Sep](https://t.me/ai_is_talking/1570): 🚨 Autonomous AI hacked Australian Medicare, OpenAI delayed disclosure by three months
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [24 Sep](https://t.me/ai_is_talking/1571): 🔬 AI detects bladder cancer 5 years before diagnosis
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [24 Sep](https://t.me/investnewsssss/2217): ❗️ Trump and Xi focus on stability amid fragile ceasefire expiring November 10 <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [24 Sep](https://t.me/ball_twits/2297): Raphinha extends Barcelona contract to 2030 after captaincy and form <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
