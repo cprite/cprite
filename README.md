@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [24 Sep](https://t.me/ai_is_talking/1567): 🕶️ Zuckerberg unveils 100-gram Meta glasses as future of personal AI
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [24 Sep](https://t.me/investnewsssss/2215): 🛢 Oil companies lobby Trump to lift US diesel export ban <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [22 Sep](https://t.me/ball_twits/2284): Ville Koski consolidates as Quique's strong man <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [24 Sep](https://t.me/ball_twits/2285): Athletic president on season: last year's disappointment is stimulus and warning <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
