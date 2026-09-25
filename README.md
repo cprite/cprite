@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [25 Sep](https://t.me/ai_is_talking/1575): 📞 Gemini AI now makes phone calls for Pixel 11 users
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [25 Sep](https://t.me/ai_is_talking/1576): 💸 SoftBank raises record \$11.1bn debt for final OpenAI bet
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [25 Sep](https://t.me/investnewsssss/2223): ✴️ Trump calls Xi summit excellent but US-China tensions persist <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [25 Sep](https://t.me/ball_twits/2314): Antony reveals his struggle with groin pain, playing on painkillers <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
