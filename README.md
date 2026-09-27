@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [27 Sep](https://t.me/ai_is_talking/1596): 🦞 Bristol bans AI art after failed Banksy mural sparks artist backlash
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [27 Sep](https://t.me/investnewsssss/2228): 📈 US indexes rise despite bond market sell-off, yields hit 20-year highs <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [27 Sep](https://t.me/ball_twits/2345): Denmark dominate Wales in Nations League as Isaksen adds finishing touch <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [27 Sep](https://t.me/ball_twits/2346): Ranking the top 10 Premier League summer transfers based on impact in opening games <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
