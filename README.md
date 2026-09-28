@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [28 Sep](https://t.me/ai_is_talking/1599): 📱 Ex-Siri engineer launches AI agent for messaging and shopping
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [28 Sep](https://t.me/ai_is_talking/1600): 💾 SK Hynix plans record \$150 billion Solidigm IPO for AI boom
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [28 Sep](https://t.me/investnewsssss/2230): ⚠️ Negotiators demand Iran nuclear concessions to resume US ceasefire talks <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [28 Sep](https://t.me/ball_twits/2355): Enrique Riquelme: "The sale of Real Madrid remains a red line for me" <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
