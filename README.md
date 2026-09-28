@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [28 Sep](https://t.me/ai_is_talking/1599): 📱 Ex-Siri engineer launches AI agent for messaging and shopping
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [27 Sep](https://t.me/investnewsssss/2228): 📈 US indexes rise despite bond market sell-off, yields hit 20-year highs <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [28 Sep](https://t.me/ball_twits/2353): Álvaro Vadillo calls Celta coach Óscar García "horrendously bad" <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [28 Sep](https://t.me/ball_twits/2354): Mancini refers to ‘double’ Manchester City contract and says it ‘isn’t my problem’ <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
