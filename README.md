@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [28 Sep](https://t.me/ai_is_talking/1601): 🎙️ Actor sues TikTok for AI voice clone earning \$3200 monthly
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [28 Sep](https://t.me/investnewsssss/2232): 📉 OpenAI halts newest model training amid safety concerns, crashes chip stocks <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [28 Sep](https://t.me/ball_twits/2358): Fofana trains in Paris during international break <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [28 Sep](https://t.me/ball_twits/2359): Manchester City verdict and England run world champions close <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
