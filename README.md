@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [29 Sep](https://t.me/ai_is_talking/1606): 🌅 ChatGPT as personal coach: one prompt changed user habits
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [29 Sep](https://t.me/investnewsssss/2233): 📉 US stocks fall 0.7-0.9% amid rising oil prices and Iran tensions <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [29 Sep](https://t.me/ball_twits/2372): Billy Meredith: from City scandal to United hero <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [29 Sep](https://t.me/ball_twits/2373): Valencia brings back doctor Antonio Giner as medical director <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
