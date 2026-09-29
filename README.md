@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [29 Sep](https://t.me/ai_is_talking/1609): 📊 11 million US workers may need to change professions due to AI
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [29 Sep](https://t.me/ai_is_talking/1610): ⚖️ Court denies xAI's attempt to escape Grok deepfake lawsuit
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [29 Sep](https://t.me/investnewsssss/2239): ✴️ AMD buys AI company World Labs for \$8.2 billion <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [29 Sep](https://t.me/ball_twits/2385): Flick named La Liga's best coach for September as Barcelona dominates <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
