@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [30 Sep](https://t.me/ai_is_talking/1619): 🩺 AI freed 62% of dermatologist time in NHS skin cancer screening
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [30 Sep](https://t.me/investnewsssss/2245): ✴️ OpenAI launches Dots AI agent at DevDay to rival Meta Muse <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [30 Sep](https://t.me/ball_twits/2420): Tuchel sees Bellingham as alternative to Kane for England attack <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [30 Sep](https://t.me/ball_twits/2421): Andy Burnham concerned about losing Manchester City owners after guilty verdicts <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
