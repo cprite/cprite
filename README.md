@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [1 Oct](https://t.me/ai_is_talking/1624): 💰 Modal Labs valued at \$15.75B, tripling in four months
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [1 Oct](https://t.me/ai_is_talking/1625): 🤖 Apple freezes plan to replace 5000 support staff with AI agents
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [1 Oct](https://t.me/investnewsssss/2254): ✴️ US, South Korea agree on \$200B deal: Alaska gas pipeline, 8 reactors <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [1 Oct](https://t.me/ball_twits/2433): Real Sociedad to face Athletic with 11 absences <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
