@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [2 Oct](https://t.me/ai_is_talking/1636): 🔥 Figure AI trains Figure 02 humanoids to jump into molten steel
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [2 Oct](https://t.me/investnewsssss/2260): ✴️ ON Semiconductor buys Synaptics for \$5.7B, stocks surge premarket <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [2 Oct](https://t.me/ball_twits/2460): Arsenal shelve plans for major expansion of Emirates Stadium <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [2 Oct](https://t.me/ball_twits/2461): Nations League: Italy draw with 10-man France, Northern Ireland win <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
