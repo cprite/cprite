@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [2 Oct](https://t.me/ai_is_talking/1630): 🌅 Debunk 21-day myth: AI coaches build habits in 66 days
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [2 Oct](https://t.me/investnewsssss/2256): ⚠️ US House proposes crypto tax certainty bill, \$1.7B impact over 10 years <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [2 Oct](https://t.me/ball_twits/2448): Europa League kings pay tribute to Antonio Puerta <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [2 Oct](https://t.me/ball_twits/2449): Valencia beat Basel 6-2 in Champions League on October 2, 2002 <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
