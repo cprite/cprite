@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [3 Oct](https://t.me/ai_is_talking/1644): 🙏 77-year-old Indian goes viral for calling ChatGPT 'sir'
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [3 Oct](https://t.me/investnewsssss/2262): ✴️ Paramount controls Warner Bros. Discovery amid \$80B debt restructuring <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [3 Oct](https://t.me/ball_twits/2476): Jonathan Wilson: Manchester City trophies should be blank <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [3 Oct](https://t.me/ball_twits/2477): Bruno Fernandes backs Cristiano Ronaldo despite walkout from Portugal squad <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
