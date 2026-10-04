@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [4 Oct](https://t.me/ai_is_talking/1645): 🌙 Brain dump open thoughts before bed for better sleep
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [3 Oct](https://t.me/investnewsssss/2262): ✴️ Paramount controls Warner Bros. Discovery amid \$80B debt restructuring <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [3 Oct](https://t.me/ball_twits/2480): Lamine Yamal stars again as Spain see off Czechia and maintain perfect start <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [4 Oct](https://t.me/ball_twits/2481): Quique Sánchez Flores' Alavés is in the European qualification zone <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
