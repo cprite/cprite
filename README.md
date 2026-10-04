@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [4 Oct](https://t.me/ai_is_talking/1647): 💰 ChatGPT opens financial dashboard to 200+ million users
-  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [3 Oct](https://t.me/investnewsssss/2262): ✴️ Paramount controls Warner Bros. Discovery amid \$80B debt restructuring <!-- tg-feed:end -->
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [4 Oct](https://t.me/ai_is_talking/1648): 📉 Cerebras shares crash 20% as OpenAI picks Nvidia for GPT-6.1
+  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [4 Oct](https://t.me/investnewsssss/2263): 📈 Gold prices surge from \$3000 to \$5000, growth continues <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [4 Oct](https://t.me/ball_twits/2484): Guruzeta: Raúl García like a father, helped with house and physiotherapist <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
