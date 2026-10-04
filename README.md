@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [4 Oct](https://t.me/ai_is_talking/1649): 💼 AI flooding NYC with offices and \$16.7B investment but entry-level jobs tank
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [4 Oct](https://t.me/investnewsssss/2263): 📈 Gold prices surge from \$3000 to \$5000, growth continues <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [4 Oct](https://t.me/ball_twits/2484): Guruzeta: Raúl García like a father, helped with house and physiotherapist <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [4 Oct](https://t.me/ball_twits/2485): Junior Firpo confirms injury and blames international break format <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
