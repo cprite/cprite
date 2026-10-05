@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [5 Oct](https://t.me/ai_is_talking/1655): 🔒 Google restricts free Gemini to 950M users, charges for Flash Pro
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [4 Oct](https://t.me/investnewsssss/2263): 📈 Gold prices surge from \$3000 to \$5000, growth continues <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [5 Oct](https://t.me/ball_twits/2491): Longest Serving Managers in Premier League History Top 20 Ranked <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [5 Oct](https://t.me/ball_twits/2492): Betis: Cucho and Parrott give Pellegrini three attacking options <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
