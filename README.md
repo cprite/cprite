@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [5 Oct](https://t.me/ai_is_talking/1655): 🔒 Google restricts free Gemini to 950M users, charges for Flash Pro
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [5 Oct](https://t.me/ai_is_talking/1656): 💸 Amazon offloads \$8B Nvidia chips to finance AI expansion
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [5 Oct](https://t.me/investnewsssss/2264): 📈 Breakwave Tanker Shipping ETF surges 5876% amid Middle East disruptions <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [5 Oct](https://t.me/ball_twits/2496): LaLiga Market Values: Vinicius &amp; Alvarez Fall, Diomande Soars <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
