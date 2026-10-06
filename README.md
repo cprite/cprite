@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [7 Oct](https://t.me/ai_is_talking/1665): ⌨️ Developer cuts workday to 4 hours, same output, better focus
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [6 Oct](https://t.me/investnewsssss/2270): 📈 Nvidia closes at record \$5.6 trillion after 22% three-month surge <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [6 Oct](https://t.me/ball_twits/2528): Harry Kane scores twice as England beat Czechia in Nations League <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [7 Oct](https://t.me/ball_twits/2529): Kane equals Shilton's England record with brace in 3-0 win <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
