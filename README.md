@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [6 Oct](https://t.me/ai_is_talking/1663): 🩺 First in US: AI app gets independent approval to prescribe acne drugs
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [6 Oct](https://t.me/investnewsssss/2269): ⚠️ France's 10-year bond yields hit 5%, highest since 2002 <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [6 Oct](https://t.me/ball_twits/2520): Premier League transfer news LATEST: Arsenal want Josh King with five clubs after Joules Koundé <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [6 Oct](https://t.me/ball_twits/2521): Julio Díaz: "That championship Sevilla is one that every team should be inspired by" <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
