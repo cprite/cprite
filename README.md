@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [7 Oct](https://t.me/ai_is_talking/1666): 🪦 Blogger uses Claude to audit and bury Q4 goals ruthlessly
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [7 Oct](https://t.me/investnewsssss/2272): 📈 S&amp;P 500 record 7819.04, Nasdaq second day, utilities surge on Alphabet deal <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [7 Oct](https://t.me/ball_twits/2532): Villarreal: a team still in the construction phase <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [7 Oct](https://t.me/ball_twits/2533): Premier League transfer news LATEST Aston Villa want Endrick as Man City wonderkid leaves <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
