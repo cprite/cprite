@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [7 Oct](https://t.me/ai_is_talking/1667): 🤖 Figure founder releases Hark Pro, AI that autonomously manages your computer
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [7 Oct](https://t.me/ai_is_talking/1668): 🚀 Nvidia nears \$6 trillion market cap, historic milestone
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [7 Oct](https://t.me/investnewsssss/2273): 🚫 No Iranian oil tankers pass US blockade since July <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [7 Oct](https://t.me/ball_twits/2540): Atletico prepares for Alaves match as players return from international duty <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
