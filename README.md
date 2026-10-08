@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [8 Oct](https://t.me/ai_is_talking/1675): 🎮 Google's Playground turns text descriptions into playable browser games
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [8 Oct](https://t.me/investnewsssss/2277): ⚠️ FTC and US Agriculture Dept probe anticompetitive farm equipment sales; Caterpillar, Deere fall <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [8 Oct](https://t.me/ball_twits/2565): Romero: Messi never said he had to win a Ballon d'Or <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [8 Oct](https://t.me/ball_twits/2567): Pellegrini gets almost all his players back for Osasuna match <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
