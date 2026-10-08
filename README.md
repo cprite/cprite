@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [8 Oct](https://t.me/ai_is_talking/1675): 🎮 Google's Playground turns text descriptions into playable browser games
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [8 Oct](https://t.me/investnewsssss/2276): 📉 US 10-year Treasury yield hits 5.368%, highest since 2002, then eases <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [8 Oct](https://t.me/ball_twits/2560): Aspas prepares for Juventus match after injury <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [8 Oct](https://t.me/ball_twits/2562): Football Q&amp;A: ask Ed Aarons your questions as the Premier League returns <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
