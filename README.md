@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [8 Oct](https://t.me/ai_is_talking/1676): 💊 Isomorphic Labs seeks \$40–50B valuation with no drugs in trials
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [8 Oct](https://t.me/investnewsssss/2278): 🛢 Brent crude tops \$105 a barrel amid rising Middle East tensions <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [8 Oct](https://t.me/ball_twits/2570): Brighton surprise in Premier League, top scorers, best goal difference <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [8 Oct](https://t.me/ball_twits/2571): Khaldoon al-Mubarak, Manchester City chairman, faces charges <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
