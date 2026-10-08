@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [8 Oct](https://t.me/ai_is_talking/1677): 📦 Amazon cuts nearly 1,000 retail jobs while investing \$220B in AI
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [8 Oct](https://t.me/investnewsssss/2278): 🛢 Brent crude tops \$105 a barrel amid rising Middle East tensions <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [8 Oct](https://t.me/ball_twits/2574): Man Utd offer JJ Gabriel new deal but risk losing prodigy for £350,000 <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [8 Oct](https://t.me/ball_twits/2576): Guruzeta compares coaches Valverde and Terzic <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
