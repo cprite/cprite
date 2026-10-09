@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [9 Oct](https://t.me/ai_is_talking/1683): 🚀 OpenAI gives GPT-6 and interactive interface to all ChatGPT users
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [9 Oct](https://t.me/investnewsssss/2279): 📉 OpenAI's recurring revenue \$20B below prior claim; Nasdaq falls 1.3% <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [9 Oct](https://t.me/ball_twits/2589): Everton owner The Friedkin Group exploring sale of club after two years <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [9 Oct](https://t.me/ball_twits/2594): Ødegaard 22nd &amp; Rogers 3rd: Top 30 most valuable players in the Premier League ranked <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
