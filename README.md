@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [9 Oct](https://t.me/ai_is_talking/1688): 🎭 AI comedy avatars copy real comics' jokes, one hitting 214K followers
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [9 Oct](https://t.me/investnewsssss/2281): ⚠️ American Express fined \$350M for lax controls on \$13B suspicious transactions <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [9 Oct](https://t.me/ball_twits/2613): Premier League returns after 10-year sham, reality questioned <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [9 Oct](https://t.me/ball_twits/2614): Mou admits Real Madrid's midfield and attacking issues <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
