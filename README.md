@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [9 Oct](https://t.me/ai_is_talking/1687): 🏥 Google's AMIE chatbot prepared 98 patients for doctor visits in trial
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [9 Oct](https://t.me/ai_is_talking/1688): 🎭 AI comedy avatars copy real comics' jokes, one hitting 214K followers
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [9 Oct](https://t.me/investnewsssss/2281): ⚠️ American Express fined \$350M for lax controls on \$13B suspicious transactions <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [9 Oct](https://t.me/ball_twits/2611): Rayo Vallecano fans demand respect and ticket refunds <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
