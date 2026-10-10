@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [10 Oct](https://t.me/ai_is_talking/1692): 🏗️ Firmus Grid scraps A\$5.5B AI data center IPO after demand collapses
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [10 Oct](https://t.me/investnewsssss/2283): 🇺🇸 Anthropic signs up to \$45B compute deal with SpaceX <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [10 Oct](https://t.me/ball_twits/2632): Alaves vs Atletico Madrid La Liga match today <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [10 Oct](https://t.me/ball_twits/2633): Cole Palmer signs new contract with Chelsea until 2034 <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
