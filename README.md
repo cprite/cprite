@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [11 Oct](https://t.me/ai_is_talking/1698): 🌅 Ask Claude to stop flattering and call unrealistic plans out
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [11 Oct](https://t.me/ai_is_talking/1699): 📱 Amazon ends Fire era; Alexa Tablets start at \$230 with built-in AI
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [10 Oct](https://t.me/investnewsssss/2283): 🇺🇸 Anthropic signs up to \$45B compute deal with SpaceX <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [11 Oct](https://t.me/ball_twits/2660): Market values: Palmer, Rogers &amp; João Pedro most valuable trio ever? <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
