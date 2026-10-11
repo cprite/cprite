@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [11 Oct](https://t.me/ai_is_talking/1704): 🌋 OpenAI posts 722 AI-written math papers, angering mathematicians
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [12 Oct](https://t.me/ai_is_talking/1705): 🧠 Clinic suggests 5-4-3-2-1 sensory technique to quiet a coding-racing brain
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [11 Oct](https://t.me/investnewsssss/2284): 🚫 Saudi Arabia closes Riyadh airport after Houthi strike kills 12 <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [11 Oct](https://t.me/ball_twits/2680): Coach Racing believes Valencia goalkeeper saved two points <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
