@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [11 Oct](https://t.me/ai_is_talking/1704): 🌋 OpenAI posts 722 AI-written math papers, angering mathematicians
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [11 Oct](https://t.me/investnewsssss/2284): 🚫 Saudi Arabia closes Riyadh airport after Houthi strike kills 12 <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [11 Oct](https://t.me/ball_twits/2677): Pellegrini happy with Betis win, Isco scored 4-2 <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [11 Oct](https://t.me/ball_twits/2678): Mourinho avoids scandal after Real Madrid's victory over Villarreal <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
