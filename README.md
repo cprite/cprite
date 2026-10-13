@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [13 Oct](https://t.me/ai_is_talking/1715): 🧠 Meta launches Muse Wonder AI for insurance, rent and finances
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [13 Oct](https://t.me/investnewsssss/2287): 📉 Micron and SK Hynix shares fall 4% on China's CXMT product plan <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [13 Oct](https://t.me/ball_twits/2729): Premier League transfer LATEST: Man Utd want Simeone, Chelsea willing to meet Scott price <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [13 Oct](https://t.me/ball_twits/2731): Christian Pulisic no longer focal point for USMNT or AC Milan <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
