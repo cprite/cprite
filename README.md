@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [14 Oct](https://t.me/ai_is_talking/1726): 🏛️ Character.AI files for bankruptcy after child safety lawsuits, Disney pays \$20M
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [14 Oct](https://t.me/investnewsssss/2292): ⚠️ Bank of America fined \$1.2 billion over money laundering controls <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [14 Oct](https://t.me/ball_twits/2760): Jason Wilcox: Manchester United director under pressure over transfer record <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [14 Oct](https://t.me/ball_twits/2761): Pol Lozano blames players for Espanyol's poor results <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
