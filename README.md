@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [14 Oct](https://t.me/ai_is_talking/1723): 🛡️ Google and Singapore's on-device AI warns of chat scams at 94.6% accuracy
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [14 Oct](https://t.me/investnewsssss/2290): 📉 Banks beat estimates but shares fell; J&amp;J down nearly 6% <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [14 Oct](https://t.me/ball_twits/2754): Premier League transfer LATEST: Pedro Porro exit rumours, Liverpool target a right-back <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [14 Oct](https://t.me/ball_twits/2756): Lisandro Martinez fury at Jason Wilcox widely shared by Manchester United teammates <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
