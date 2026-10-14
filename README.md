@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [14 Oct](https://t.me/ai_is_talking/1722): 🧹 AI turned a journalist's happiness day into a chore-filled schedule
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [14 Oct](https://t.me/investnewsssss/2290): 📉 Banks beat estimates but shares fell; J&amp;J down nearly 6% <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [14 Oct](https://t.me/ball_twits/2749): Kiat Lim asks his father not to sell Valencia <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [14 Oct](https://t.me/ball_twits/2750): Alex Scott could move to Premier League club for €100m <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
