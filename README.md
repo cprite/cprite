@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [15 Oct](https://t.me/ai_is_talking/1731): 🍏 Apple's new Siri AI debuts on Apple TV 4K at \$299
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [15 Oct](https://t.me/investnewsssss/2295): 🍏 Apple closes above \$5 trillion market cap, second company ever to do so <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [15 Oct](https://t.me/ball_twits/2771): Imga and Laporte will be in the Athletic squad for Valencia match <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [15 Oct](https://t.me/ball_twits/2772): Southgate hardly watches football and does not envisage Premier League return <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
