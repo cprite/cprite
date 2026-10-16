@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [16 Oct](https://t.me/ai_is_talking/1742): ⚖️ EU drafts direct AI Act fines for ChatGPT, Gemini and Claude
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [16 Oct](https://t.me/investnewsssss/2299): 📉 Semiconductor ETF SOXX heads for ninth straight daily decline, longest since 2006 <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [16 Oct](https://t.me/ball_twits/2809): Pellegrini calls up the same 24 players against Barcelona as against Porto <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [16 Oct](https://t.me/ball_twits/2811): Betis vs Barcelona probable lineups for LaLiga match on October 17 <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
