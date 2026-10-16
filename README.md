@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [16 Oct](https://t.me/ai_is_talking/1744): 🤖 Robot that chased boars now visits museum to see if it's real
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [16 Oct](https://t.me/investnewsssss/2299): 📉 Semiconductor ETF SOXX heads for ninth straight daily decline, longest since 2006 <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [16 Oct](https://t.me/ball_twits/2816): Tebas surprised by possible CSD investigation against him <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [16 Oct](https://t.me/ball_twits/2817): Wolves beat Burnley thanks to Chirewa's goal <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
