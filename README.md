@@ -48,6 +48,6 @@ _Still works, but no longer actively maintained._
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [16 Oct](https://t.me/ai_is_talking/1737): 🌙 Cognitive shuffling: random unrelated images help a racing brain fall asleep
-  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [15 Oct](https://t.me/investnewsssss/2296): 📉 CoreWeave shares fall again as bond yields rise, semiconductor index drops eight sessions <!-- tg-feed:end -->
+  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [16 Oct](https://t.me/investnewsssss/2297): 📈 US indexes rebound after Nvidia CEO's remarks; Dow up 1.1% <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [16 Oct](https://t.me/ball_twits/2788): Premier League: 10 things to look out for this weekend <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
