@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [17 Oct](https://t.me/ai_is_talking/1746): 🌅 Mom of three offloads mental clutter using AI she never coded
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [17 Oct](https://t.me/ai_is_talking/1747): 🌐 ChatGPT's Chrome extension now fills forms and compares prices across tabs
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [17 Oct](https://t.me/investnewsssss/2300): 📉 Nasdaq suffers worst week since June, falling 4.5% <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [17 Oct](https://t.me/ball_twits/2823): Premier League most valuable XI worth over €1b Saliba Palmer Haaland included <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
