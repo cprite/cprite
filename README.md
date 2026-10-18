@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [18 Oct](https://t.me/ai_is_talking/1755): 🎬 Kling 4.0 generates 2-minute 4K HDR videos, integrates into Adobe Firefly
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [17 Oct](https://t.me/investnewsssss/2300): 📉 Nasdaq suffers worst week since June, falling 4.5% <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [18 Oct](https://t.me/ball_twits/2854): Valencia fans boo and insult striker Hugo Duro during match <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [18 Oct](https://t.me/ball_twits/2855): Real Madrid vs Sevilla: time, TV, where to watch LaLiga match <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
