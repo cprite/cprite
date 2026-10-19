@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [19 Oct](https://t.me/ai_is_talking/1767): 🤫 Cancer patients secretly consult ChatGPT about treatment, hiding it from doctors
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [19 Oct](https://t.me/investnewsssss/2305): 📈 Intel and AMD shares rise premarket as chip sector nears longest slide in 20 years <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [19 Oct](https://t.me/ball_twits/2891): Lamine Yamal scores winning goal for Barcelona against Real Betis <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [19 Oct](https://t.me/ball_twits/2893): Cristiano Ronaldo receives 30-day suspension and £215 fine over Portugal walkout <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
