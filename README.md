@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [19 Oct](https://t.me/ai_is_talking/1765): 🎮 Activision QA testers vote to authorize strike over AI concerns
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [19 Oct](https://t.me/investnewsssss/2305): 📈 Intel and AMD shares rise premarket as chip sector nears longest slide in 20 years <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [19 Oct](https://t.me/ball_twits/2886): Semenyo's eight-week injury absence leaves Manchester City short on cover for Haaland <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [19 Oct](https://t.me/ball_twits/2887): Charlie Cresswell: scary to leave but I'm here to win <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
