@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [20 Oct](https://t.me/ai_is_talking/1772): 💸 OpenAI rushes \$30B round at \$1.4T valuation before Anthropic IPO
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [20 Oct](https://t.me/investnewsssss/2308): ⚠️ Elice shares plunge 32% on debut despite 200% revenue growth <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [20 Oct](https://t.me/ball_twits/2907): Animal rights group urges Crystal Palace to retire bald eagle mascot <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [20 Oct](https://t.me/ball_twits/2908): Terzic: "Here you can't go to Google or ChatGPT to find solutions" <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
