@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [21 Oct](https://t.me/ai_is_talking/1780): 📉 Kospi plunges, then roars back 5% after AI listing chaos
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [21 Oct](https://t.me/investnewsssss/2310): 💥 Anthropic posts \$80.7 billion net loss for first half <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [21 Oct](https://t.me/ball_twits/2925): Four-match ban for Facundo Bernal and two for Manu Fajardo; Betis will appeal <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [21 Oct](https://t.me/ball_twits/2926): Ronaldo successfully fought to reduce his punishment for walking out on Portugal <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
