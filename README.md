@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [21 Oct](https://t.me/ai_is_talking/1784): 🦂 Claude designs 211 scorpion toxin-blocking protein candidates in 64 hours
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [22 Oct](https://t.me/ai_is_talking/1785): 🌙 Coach says Claude Code binges wake programmers at 3-4 AM
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [21 Oct](https://t.me/investnewsssss/2311): ⚠️ CoreWeave shares down 32% since Oct 6; 2032 bonds yield 15% <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [21 Oct](https://t.me/ball_twits/2936): Declan Rice strikes late for Arsenal to deny Bayern Munich in blockbuster <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
