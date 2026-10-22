@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [22 Oct](https://t.me/ai_is_talking/1789): 💼 Barclays to cut 5,000 jobs as AI reshapes banking
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [22 Oct](https://t.me/ai_is_talking/1790): ⚖️ Anthropic proposes law letting only judges block dangerous AI models
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [22 Oct](https://t.me/investnewsssss/2315): ⚡ Meta raises AI agent Muse capex forecast, creates new share class to fund it <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [22 Oct](https://t.me/ball_twits/2949): Bruno Guimarães had sleepless nights before Newcastle exit but hopes for same ‘love’ at Arsenal <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
