@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [22 Oct](https://t.me/ai_is_talking/1792): 🚨 Police arrest man over AI video showing Karnataka parliament explosion
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [22 Oct](https://t.me/investnewsssss/2315): ⚡ Meta raises AI agent Muse capex forecast, creates new share class to fund it <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [22 Oct](https://t.me/ball_twits/2951): Julian Nagelsmann is a candidate for the Manchester United manager job <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [22 Oct](https://t.me/ball_twits/2952): Bournemouth beat 10-man Milan 3-0 in Europa League <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
