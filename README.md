@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [23 Oct](https://t.me/ai_is_talking/1795): 🚗 Google adds Gemini assistant to CarPlay Maps, US only for now
-  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [23 Oct](https://t.me/investnewsssss/2316): 📉 Moderna shares fall 17.6% after weak cancer trial details leak early <!-- tg-feed:end -->
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [23 Oct](https://t.me/ai_is_talking/1799): 🏥 Microsoft's MAI-DxO diagnoses 1.7x more accurately than primary care doctors
+  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [23 Oct](https://t.me/investnewsssss/2317): ⚠️ Oil jumps to \$115 a barrel as US 10-year yield drops below 5% <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [23 Oct](https://t.me/ball_twits/2969): Vincent Kompany taken to hospital after collapsing at Bayern training <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
