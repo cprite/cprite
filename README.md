@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [23 Oct](https://t.me/ai_is_talking/1795): 🚗 Google adds Gemini assistant to CarPlay Maps, US only for now
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [22 Oct](https://t.me/investnewsssss/2315): ⚡ Meta raises AI agent Muse capex forecast, creates new share class to fund it <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [23 Oct](https://t.me/ball_twits/2956): England leads UEFA rankings, Spain second in European football battle <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [23 Oct](https://t.me/ball_twits/2957): AFC backs Gianni Infantino re-election bid for FIFA presidency <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
