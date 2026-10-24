@@ -47,7 +47,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [24 Oct](https://t.me/ai_is_talking/1802): 🤖 One person, three AI assistants: splitting work between ChatGPT, Claude, Gemini
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [24 Oct](https://t.me/ai_is_talking/1803): 🎙️ Nirva raises \$25M for a \$249 always-listening pendant that filters voices
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [24 Oct](https://t.me/investnewsssss/2318): 📉 Dow falls 1.23% to 52215.16 as oil rises and AI stocks sell off <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [24 Oct](https://t.me/ball_twits/2980): Rayo Vallecano vs Elche LaLiga EA Sports match schedule and TV channel <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
