@@ -49,5 +49,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [25 Oct](https://t.me/ai_is_talking/1810): 🧠 Josh Dubovsky cut his favorite Claude prompts from 20 to 9
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [24 Oct](https://t.me/investnewsssss/2319): ✴️ Musk to give SpaceX shares to kids under Trump Accounts, Dell joins <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [25 Oct](https://t.me/ball_twits/3002): El Clásico tickets start at 649 euros, VIP at 2400 <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [25 Oct](https://t.me/ball_twits/3003): Guido: "At this moment the weak surrender and we are not going to surrender" <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
