@@ -22,6 +22,7 @@
 
 ### Freshly baked / patched 
 
+- 🔎 **[explain-why-agent](https://github.com/cprite/explain-why-agent)** — Agent team that finds why a business number changed: hypotheses tested with SQL across four databases through a Zetaris semantic layer, and a Critic that tries to break every answer. Built for the Open Agent Hackathon 2026
 - 🌐 **[vera](https://github.com/N-Combinator/vera)** — Web accessibility auditor and auto-remediator (WCAG 2.2)
 - 📚 **[inkshelf](https://github.com/N-Combinator/inkshelf)** — Native PocketBook e-reader app: browse OPDS catalogues and send books over Wi-Fi, no cables needed
 - 🚆 **[inkstation](https://github.com/N-Combinator/inkstation)** — Native PocketBook e-reader app: live UK train departure and arrival boards over Wi-Fi, powered by the Realtime Trains API
