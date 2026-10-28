@@ -50,5 +50,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [28 Oct](https://t.me/ai_is_talking/1839): 🔓 EU Council backs default legal use of personal data for AI
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [28 Oct](https://t.me/investnewsssss/2327): 🇺🇸 Fed announces rate decision today; Alphabet and Microsoft report after close <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [28 Oct](https://t.me/ball_twits/3057): Getafe player Davinchi calls on Spain to "wake up" after train crash <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [28 Oct](https://t.me/ball_twits/3058): Athletic president claims fourth best performance in Spain <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
