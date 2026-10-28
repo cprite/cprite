@@ -49,6 +49,6 @@ _Still works, but no longer actively maintained._
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [28 Oct](https://t.me/ai_is_talking/1836): 🍎 Apple adds an OpenAI-powered AI assistant to Pages, Keynote, Numbers
-  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [27 Oct](https://t.me/investnewsssss/2325): ✴️ Anthropic files for IPO; Alphabet pledges up to \$30B, Amazon \$20B <!-- tg-feed:end -->
+  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [28 Oct](https://t.me/investnewsssss/2326): 📉 China car sales fall 22% in January–September, worst since 2014 <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [28 Oct](https://t.me/ball_twits/3051): Mbappé's China crisis shows how sensitive Mao's legacy remains <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
