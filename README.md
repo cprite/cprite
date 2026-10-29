@@ -48,7 +48,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [29 Oct](https://t.me/ai_is_talking/1842): ⏰ Clock change brings no extra sleep, only night-owl traps
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [29 Oct](https://t.me/ai_is_talking/1843): 🧭 AI chief-of-staff briefing in 10 minutes using ordinary chatbots
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [29 Oct](https://t.me/investnewsssss/2328): ✴️ Alphabet shares heading for biggest drop in 3 years; Microsoft rises <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [28 Oct](https://t.me/ball_twits/3061): Liverpool beat Chelsea on penalties again to progress in Carabao Cup <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
