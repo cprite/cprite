@@ -50,5 +50,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [29 Oct](https://t.me/ai_is_talking/1847): 🛡️ New York bans child-unsafe chatbot behavior, covering ChatGPT, Claude, Gemini
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [29 Oct](https://t.me/investnewsssss/2331): ❗️ California Prop 40 one-time 5% billionaire wealth tax could raise \$100 billion <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [29 Oct](https://t.me/ball_twits/3070): Sergio García confident Espanyol can beat Villarreal despite recent turmoil <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [29 Oct](https://t.me/ball_twits/3071): Dortmund ask fans to give up phones at stadium <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
