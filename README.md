@@ -50,5 +50,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [30 Oct](https://t.me/ai_is_talking/1853): 💰 Cohere raises up to \$5B at \$20.5B valuation, backed by Canada
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [30 Oct](https://t.me/investnewsssss/2334): 📉 Alphabet loses nearly \$500B in market value, biggest one-day drop ever <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [30 Oct](https://t.me/ball_twits/3081): South Korea national team facing crisis amid player rifts and scandals <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [30 Oct](https://t.me/ball_twits/3082): Barcelona changed Koski's life, Alaves beat them 1-0 <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
