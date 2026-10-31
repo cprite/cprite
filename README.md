@@ -12,7 +12,7 @@
 
 ![Claude tokens burned](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcprite%2Fcprite%2Fmaster%2F.github%2Fclaude-tokens.json)
 
-> Interested in AI agent orchestration, backend development, vibecoding, and building tools that actually do things.
+> Interested in AI agent orchestration, backend development, vibecoding, hackathoning and building tools that actually do things.
 
 <sub>This README is modelled on [@steipete](https://github.com/steipete)'s profile: all credit to Peter, and a big thank-you from a proud fan of his lobster, [OpenClaw](https://openclaw.ai) 🦞</sub>
 
