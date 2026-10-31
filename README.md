@@ -22,7 +22,7 @@
 
 ### Freshly baked / patched 
 
-- 🧪 **[chalk](https://github.com/cprite/chalk)** — Describe or sketch a physics experiment and it comes to life in 3D, with every run checked against the real formula. Built with a team of four at the [Halloween at Imperial 2026](https://luma.com/p41k1z3g) hackathon with Google DeepMind
+- 🧪 **[chalk](https://github.com/cprite/chalk)** — Describe or sketch a physics experiment and it comes to life in 3D, with every run checked against the real formula. Built with a team of four at the [Halloween at Imperial 2026](https://luma.com/p41k1z3g) hackathon with Google DeepMind, 🥉 3rd place in the Multimodal & Human-Centric AI track
 - 🔎 **[explain-why-agent](https://github.com/cprite/explain-why-agent)** — Agent team that finds why a business number changed. Built for the [Open Agent Hackathon 2026](https://hackathon.genai.works/event/open-agent-hackathon-2026)
 - 🌐 **[vera](https://github.com/N-Combinator/vera)** — Web accessibility auditor and auto-remediator (WCAG 2.2)
 - 📚 **[inkshelf](https://github.com/N-Combinator/inkshelf)** — Native PocketBook e-reader app: browse OPDS catalogues and send books over Wi-Fi, no cables needed
