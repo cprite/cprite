@@ -50,5 +50,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [31 Oct](https://t.me/ai_is_talking/1858): ☕ Sugary coffee and snacks cause afternoon crashes, not just lack of sleep
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [30 Oct](https://t.me/investnewsssss/2334): 📉 Alphabet loses nearly \$500B in market value, biggest one-day drop ever <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [30 Oct](https://t.me/ball_twits/3096): Barcelona vs Alaves: Barca forced to react after two defeats <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [31 Oct](https://t.me/ball_twits/3097): Aston Villa to take legal action against Jamie Carragher for unacceptable insults <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
