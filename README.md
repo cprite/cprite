@@ -51,5 +51,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [1 Nov](https://t.me/ai_is_talking/1869): 🕶️ Subvocal glasses turn silent lip movements into text at 200 words per minute
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [31 Oct](https://t.me/investnewsssss/2336): ⚠️ OpenAI raises less than half of \$30B target amid AI trade concerns <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [1 Nov](https://t.me/ball_twits/3123): Betis scores most goals before halftime in La Liga <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [1 Nov](https://t.me/ball_twits/3124): Hugo Álvarez: "We have to think a lot about what happened in Vallecas and not let it pass" <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
