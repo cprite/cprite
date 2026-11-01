@@ -49,7 +49,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [1 Nov](https://t.me/ai_is_talking/1869): 🕶️ Subvocal glasses turn silent lip movements into text at 200 words per minute
-  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [31 Oct](https://t.me/investnewsssss/2336): ⚠️ OpenAI raises less than half of \$30B target amid AI trade concerns <!-- tg-feed:end -->
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [1 Nov](https://t.me/ai_is_talking/1870): 💸 Anthropic's valuation drops to \$1.5T before its planned Nasdaq IPO
+  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [1 Nov](https://t.me/investnewsssss/2338): ✴️ NVIDIA, AMD and Broadcom anchor \$5B of Meta's \$25B share sale <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [1 Nov](https://t.me/ball_twits/3127): Betis finishes home streak with 2-1 win over Malaga <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
