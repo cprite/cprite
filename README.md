@@ -51,5 +51,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [2 Nov](https://t.me/ai_is_talking/1880): 🏛️ South Korea's Supreme Court plans fines for AI-fabricated legal precedents
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [2 Nov](https://t.me/investnewsssss/2345): ⚠️ China EV and hybrid exports reach 10 million; BYD ships 1.5 million <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [2 Nov](https://t.me/ball_twits/3145): Carrick not concerned about Martínez’s attitude as United prepare for Roma visit <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [2 Nov](https://t.me/ball_twits/3147): Arsenal lead Premier League showing squad depth and experience <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
