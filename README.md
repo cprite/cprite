@@ -51,5 +51,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [2 Nov](https://t.me/ai_is_talking/1877): 📄 Gemini now edits generated documents directly in chat, free
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [2 Nov](https://t.me/investnewsssss/2342): 📉 Netflix ad growth depends on viewership, which is now slipping <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [1 Nov](https://t.me/ball_twits/3138): Athletic Bilbao goalkeeper Unai Simón receives award for best goalkeeper <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [2 Nov](https://t.me/ball_twits/3139): Mantilla suffers ACL tear, out for the season <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
