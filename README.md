@@ -51,5 +51,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [3 Nov](https://t.me/ai_is_talking/1890): 🎬 Chinese AI film debuts to empty seats, grossing 1.7 million yuan
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [3 Nov](https://t.me/investnewsssss/2353): ✴️ Palantir beats estimates as US commercial revenue passes government for first time <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [3 Nov](https://t.me/ball_twits/3153): Phil Foden wants England recall, no contact with Tuchel <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [3 Nov](https://t.me/ball_twits/3154): Arteta backs Saliba's readiness to return for Arsenal at Slavia Prague <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
