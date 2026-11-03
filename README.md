@@ -50,6 +50,6 @@ _Still works, but no longer actively maintained._
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [3 Nov](https://t.me/ai_is_talking/1885): 🫘 Google's Dreambeans turns your digital life into personal cartoons, launches in India
-  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [3 Nov](https://t.me/investnewsssss/2347): ✴️ IDEXX Laboratories shares rise 21.9%, Lumentum Holdings falls 18.59% <!-- tg-feed:end -->
+  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [3 Nov](https://t.me/investnewsssss/2348): ⚠️ US strikes Iran's Keshm island, latest covert strike amid deal talk <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [2 Nov](https://t.me/ball_twits/3147): Arsenal lead Premier League showing squad depth and experience <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
