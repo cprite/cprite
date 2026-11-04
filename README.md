@@ -51,5 +51,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [4 Nov](https://t.me/ai_is_talking/1897): 🩺 AI helps spot precancer in women using self-sampled HPV tests and portable imaging
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [4 Nov](https://t.me/investnewsssss/2360): 💰 US tech sector debt issuance hits record \~\$623 billion, Wells Fargo says <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [4 Nov](https://t.me/ball_twits/3170): Athletic calls for respect for referees after penalty incident <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [4 Nov](https://t.me/ball_twits/3171): Muriqi caps Fenerbahce comeback to make Liverpool pay for defensive lapses <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
