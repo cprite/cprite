@@ -49,7 +49,7 @@ _Still works, but no longer actively maintained._
 - 🤖 Building AI agent pipelines with [OpenClaw](https://openclaw.ai)
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
-  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [4 Nov](https://t.me/ai_is_talking/1895): 🥪 Canva cuts 22% of staff, ending its era of unchecked growth
+  - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [4 Nov](https://t.me/ai_is_talking/1896): ⚖️ Brazil court blocks Meta's free news access for AI training
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [4 Nov](https://t.me/investnewsssss/2360): 💰 US tech sector debt issuance hits record \~\$623 billion, Wells Fargo says <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [4 Nov](https://t.me/ball_twits/3166): Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
