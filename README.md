@@ -51,5 +51,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [4 Nov](https://t.me/ai_is_talking/1893): 🗣 Siri gets AI powers to act inside any third-party app
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [4 Nov](https://t.me/investnewsssss/2354): 📉 Dow falls 0.38% to 51,786.72 as S&amp;P 500 gains 0.36% <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [4 Nov](https://t.me/ball_twits/3158): Premier League transfer LATEST: Man Utd want Man City's Rayan Aït-Nouri, Piero Hincapié eyed by Barcelona <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [4 Nov](https://t.me/ball_twits/3159): Athletic player Imga changes agent, contract to be reviewed <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
