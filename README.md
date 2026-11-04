@@ -51,5 +51,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [4 Nov](https://t.me/ai_is_talking/1893): 🗣 Siri gets AI powers to act inside any third-party app
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [4 Nov](https://t.me/investnewsssss/2357): 🇺🇸 CVS Health to split into two companies, separating retail pharmacies <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [4 Nov](https://t.me/ball_twits/3161): Galarreta returns to Athletic squad ahead of Osasuna derby <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [4 Nov](https://t.me/ball_twits/3162): Kike Salas rejoins group training for Sevilla <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
