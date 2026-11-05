@@ -51,5 +51,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [5 Nov](https://t.me/ai_is_talking/1904): 🏛️ White House rushes to set AI rules before Congress
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [5 Nov](https://t.me/investnewsssss/2367): 💰 Kraft Heinz sells majority coffee stake for \$500M to repay debt <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [5 Nov](https://t.me/ball_twits/3186): Bournemouth v Sparta Prague in Europa League, Bournemouth aiming to stay perfect <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [5 Nov](https://t.me/ball_twits/3187): Sevilla without Bueno and Peque against Alaves <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
