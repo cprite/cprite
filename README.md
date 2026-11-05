@@ -51,5 +51,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [5 Nov](https://t.me/ai_is_talking/1901): 🎬 Netflix tests AI Discover, asking viewers about their mood before picking
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [5 Nov](https://t.me/investnewsssss/2362): 📈 Dow Jones jumps 3% after midterms, biggest post-election rally since 1982 <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [5 Nov](https://t.me/ball_twits/3177): Raya: pain of CL final defeat motivates Arsenal this season <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [5 Nov](https://t.me/ball_twits/3178): Cristiano Ronaldo ends Portugal career after 234 caps and 146 goals <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
