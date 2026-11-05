@@ -51,5 +51,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [5 Nov](https://t.me/ai_is_talking/1902): 📉 Arm beats forecasts, but investors want even faster AI growth
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [5 Nov](https://t.me/investnewsssss/2365): ✴️ CVS Health splits: Aetna, Caremark in one firm; 9,000 pharmacies in other <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [5 Nov](https://t.me/ball_twits/3179): FIFA delegation inspects San Mamés and Anoeta stadiums for 2030 World Cup <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [5 Nov](https://t.me/ball_twits/3180): Sevilla coach Luis García Plaza on capitalizing on superior moments <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
