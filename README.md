@@ -51,5 +51,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [6 Nov](https://t.me/ai_is_talking/1911): 💸 Meta considers cutting up to 16,000 jobs as AI spending surges
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [6 Nov](https://t.me/investnewsssss/2374): 💰 Anthropic IPO could make up to 1,000 employees \$100M+ rich <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [6 Nov](https://t.me/ball_twits/3196): Premier League clubs with most empty seats per game this season <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [6 Nov](https://t.me/ball_twits/3197): La Liga matchday 14 schedule: Real Madrid vs Alaves on Saturday <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
