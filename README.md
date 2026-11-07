@@ -20,6 +20,10 @@
 
 ## Projects
 
+### In progress
+
+- 📨 **[open-instagram-api](https://github.com/cprite/open-instagram-api)** — Self-hosted HTTP API for Instagram, reverse-engineered from the web client. Messaging only so far: read chats, send replies, mark as seen. The first bot built on it answers reels for me while I'm busy
+
 ### Freshly baked / patched 
 
 - 🧪 **[chalk](https://github.com/cprite/chalk)** — Describe or sketch a physics experiment and it comes to life in 3D, with every run checked against the real formula. Built with a team of four at the [Halloween at Imperial 2026](https://luma.com/p41k1z3g) hackathon with Google DeepMind, 🥉 3rd place in the Multimodal & Human-Centric AI track
