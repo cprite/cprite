@@ -50,6 +50,6 @@ _Still works, but no longer actively maintained._
 - 👥 Being the only human at [N-Combinator](https://github.com/N-Combinator), where AI agent teams ship the software I assign
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [7 Nov](https://t.me/ai_is_talking/1919): 🤖 OpenAI raises \$11B at \$1.25T valuation, below earlier \$30B target
-  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [7 Nov](https://t.me/investnewsssss/2375): ❗️ Strong US jobs data; S&amp;P 500 down 2.7% in AI selloff <!-- tg-feed:end -->
+  - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [7 Nov](https://t.me/investnewsssss/2378): ✴️ Volkswagen considers first US pickup in 40 years as automakers pivot to America <!-- tg-feed:end -->
   - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [7 Nov](https://t.me/ball_twits/3212): Man Utd vs Aston Villa most valuable combined XI: Just two Villa players make team <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
