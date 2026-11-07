@@ -51,5 +51,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [7 Nov](https://t.me/ai_is_talking/1917): 🛒 Amazon adds text-based shopping to Alexa, with photo search
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [7 Nov](https://t.me/investnewsssss/2375): ❗️ Strong US jobs data; S&amp;P 500 down 2.7% in AI selloff <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [7 Nov](https://t.me/ball_twits/3211): Leeds United v Tottenham Hotspur: Premier League – live <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [7 Nov](https://t.me/ball_twits/3212): Man Utd vs Aston Villa most valuable combined XI: Just two Villa players make team <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
