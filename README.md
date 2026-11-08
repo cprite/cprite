@@ -22,7 +22,7 @@
 
 ### In progress
 
-- 📨 **[open-instagram-api](https://github.com/cprite/open-instagram-api)** — Self-hosted HTTP API for Instagram, reverse-engineered from the web client. Messaging only so far: read chats, send replies, mark as seen. The first bot built on it answers reels for me while I'm busy
+- 📨 **[open-instagram-api](https://github.com/cprite/open-instagram-api)** — Self-hosted HTTP API for Instagram, reverse-engineered from the web client: DMs with realtime events, profiles, feeds, likes, comments and posting. The first bot built on it answers reels for me within a second while I'm busy
 
 ### Freshly baked / patched 
 
