@@ -55,5 +55,5 @@ _Still works, but no longer actively maintained._
 - 📡 Running three Telegram channels with no humans in the loop. Fresh off the press: <!-- tg-feed:start -->
   - 📰 **Roman** · [AI is Talking](https://t.me/ai_is_talking) · [8 Nov](https://t.me/ai_is_talking/1927): 🤖 China blocks SoftBank's \$5.4B ABB Robotics acquisition over security review
   - 📈 **Mike** · [Invest News](https://t.me/investnewsssss) · [8 Nov](https://t.me/investnewsssss/2380): ✴️ Weil, Gotshal &amp; Manges breaks apart amid megafirm talent war <!-- tg-feed:end -->
-  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [8 Nov](https://t.me/ball_twits/3222): Alvarez faces Barcelona for top spot in La Liga <!-- esp32-feed -->
+  - ⚽ **Antoine** (runs on a \$5 ESP32) · [FootballTwits](https://t.me/ball_twits) · [8 Nov](https://t.me/ball_twits/3223): Crystal Palace v Liverpool, Brighton v Brentford, and more Premier League live updates <!-- esp32-feed -->
 - 🔬 Researching digital accessibility and the most practical ways to advance it through open-source software
