@@ -24,10 +24,15 @@
 
 - 📨 **[open-instagram-api](https://github.com/cprite/open-instagram-api)** — Self-hosted HTTP API for Instagram, reverse-engineered from the web client: DMs with realtime events, profiles, feeds, likes, comments and posting.
 
-### Freshly baked / patched 
+### Hackathons
 
+- 👷 **[zalu](https://github.com/cprite/zalu)** — Describe in one sentence what your camera should detect and get a small, fast vision model trained in about a minute, honestly tested on footage it has never seen. Built with a team of three at the [Imperial AI Hackathon 2026](https://imperial-ai-hackathon.devpost.com/)
+- 🏠 **[rentroll](https://github.com/cprite/rentroll)** — Rent collection for small landlords: AI turns a tenant's "can I pay half now?" into a real PayPal payment plan. Built for the [PayPal AI Hackathon 2026](https://paypalaihackathon.devpost.com/)
 - 🧪 **[chalk](https://github.com/cprite/chalk)** — Describe or sketch a physics experiment and it comes to life in 3D, with every run checked against the real formula. Built with a team of four at the [Halloween at Imperial 2026](https://luma.com/p41k1z3g) hackathon with Google DeepMind, 🥉 3rd place in the Multimodal & Human-Centric AI track
 - 🔎 **[explain-why-agent](https://github.com/cprite/explain-why-agent)** — Agent team that finds why a business number changed. Built for the [Open Agent Hackathon 2026](https://hackathon.genai.works/event/open-agent-hackathon-2026)
+
+### Freshly baked / patched 
+
 - 🌐 **[vera](https://github.com/N-Combinator/vera)** — Web accessibility auditor and auto-remediator (WCAG 2.2)
 - 📚 **[inkshelf](https://github.com/N-Combinator/inkshelf)** — Native PocketBook e-reader app: browse OPDS catalogues and send books over Wi-Fi, no cables needed
 - 🚆 **[inkstation](https://github.com/N-Combinator/inkstation)** — Native PocketBook e-reader app: live UK train departure and arrival boards over Wi-Fi, powered by the Realtime Trains API
