@@ -20,10 +20,6 @@
 
 ## Projects
 
-### In progress
-
-- 📨 **[open-instagram-api](https://github.com/cprite/open-instagram-api)** — Self-hosted HTTP API for Instagram, reverse-engineered from the web client: DMs with realtime events, profiles, feeds, likes, comments and posting.
-
 ### Hackathons
 
 - 👷 **[zalu](https://github.com/cprite/zalu)** — Describe in one sentence what your camera should detect and get a small, fast vision model trained in about a minute, honestly tested on footage it has never seen. Built with a team of three at the [Imperial AI Hackathon 2026](https://imperial-ai-hackathon.devpost.com/)
@@ -33,6 +29,7 @@
 
 ### Freshly baked / patched 
 
+- 📨 **[open-instagram-api](https://github.com/cprite/open-instagram-api)** — Self-hosted HTTP API for Instagram, reverse-engineered from the web client: DMs with realtime events, profiles, feeds, likes, comments and posting
 - 🌐 **[vera](https://github.com/N-Combinator/vera)** — Web accessibility auditor and auto-remediator (WCAG 2.2)
 - 📚 **[inkshelf](https://github.com/N-Combinator/inkshelf)** — Native PocketBook e-reader app: browse OPDS catalogues and send books over Wi-Fi, no cables needed
 - 🚆 **[inkstation](https://github.com/N-Combinator/inkstation)** — Native PocketBook e-reader app: live UK train departure and arrival boards over Wi-Fi, powered by the Realtime Trains API
