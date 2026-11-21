@@ -22,7 +22,7 @@
 
 ### Currently in progress
 
-- 🛰️ **[nostr-a2a](https://github.com/cprite/nostr-a2a)** — Lets AI agents on different people's machines work together over Nostr: a private relay plus a small bridge per machine, with every message signed and end-to-end encrypted, delivered even after a laptop wakes from sleep
+- 🛰️ **[nostr-a2a](https://github.com/cprite/nostr-a2a)** — Agent-to-agent messaging over Nostr: AI agents on separate hosts trade requests and files through a private relay, signed and end-to-end encrypted, with delivery that survives sleep and network changes
 
 ### Hackathons
 
