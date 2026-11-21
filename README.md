@@ -20,6 +20,10 @@
 
 ## Projects
 
+### Currently in progress
+
+- 🛰️ **[nostr-a2a](https://github.com/cprite/nostr-a2a)** — Lets AI agents on different people's machines work together over Nostr: a private relay plus a small bridge per machine, with every message signed and end-to-end encrypted, delivered even after a laptop wakes from sleep
+
 ### Hackathons
 
 - 👷 **[zalu](https://github.com/cprite/zalu)** — Describe in one sentence what your camera should detect and get a small, fast vision model trained in about a minute, honestly tested on footage it has never seen. Built with a team of three at the [Imperial AI Hackathon 2026](https://imperial-ai-hackathon.devpost.com/)
